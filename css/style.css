@@ -8,3 +8,11 @@ canvas{
     background-color: rgb(31, 31, 43);
     
 }
+
+h1{
+    position: absolute;
+    background-color: rgba(31, 31, 43, 0.575);
+    top: 0;
+    left: 17em;
+    color: #fff;
+}
