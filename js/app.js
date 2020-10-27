@@ -80,7 +80,7 @@ this.update = function() {
 
 var circleArray = [];
 
-for (let i = 0; i < 1000; i++) {
+for (let i = 0; i < 10; i++) {
 
 var radius = 30;
 var x = Math.random() * (window.innerWidth - radius * 2) + radius;
